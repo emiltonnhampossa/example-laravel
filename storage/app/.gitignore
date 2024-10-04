@@ -1,3 +1,7 @@
 *
+<<<<<<< HEAD
+=======
+!private/
+>>>>>>> b259f59 (first comt)
 !public/
 !.gitignore
