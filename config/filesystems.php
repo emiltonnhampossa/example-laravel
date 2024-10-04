@@ -32,12 +32,8 @@ return [
 
         'local' => [
             'driver' => 'local',
-<<<<<<< HEAD
-            'root' => storage_path('app'),
-=======
-            'root' => storage_path('app/private'),
-            'serve' => true,
->>>>>>> b259f59 (first comt)
+            'root' => storage_path('app'), // ou storage_path('app/private') se preferir
+            'serve' => true, // Adicione isso se necessário
             'throw' => false,
         ],
 
